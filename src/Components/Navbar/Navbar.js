@@ -6,8 +6,8 @@ const Navbar = () => {
   const [showMenu, setShowMenu] = useState(false);
 
   const handleGetStartedClick = () => {
-    // Redirect to localhost:3000
-    window.location.href = 'http://localhost:3000';
+    
+    window.location.href = 'https://phenomenal-manatee-5430e8.netlify.app/';
   };
 
   return (
